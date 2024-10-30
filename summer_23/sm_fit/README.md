@@ -45,7 +45,7 @@ Predictions are obtained by removing the given constraint from the global fit. T
 |  $$B(B\rightarrow\tau\nu) \cdot 10^{4}$$   |  $$1.06 \pm 0.19$$  |  $$0.872 \pm 0.041$$  |  $$0.865 \pm 0.041$$  | $$1.0$$ |
 |  $$\bar {B}(B_{s}\rightarrow ll)\cdot 10^{9}$$ |  $$3.41 \pm 0.29$$  |  $$3.44 \pm 0.12$$  |  $$3.45 \pm 0.13$$  | $$0.1$$ |
 
-## Fit Results on the \( \bar{\rho}-\bar{\eta} \) complex plane
+## Fit Results on the \\( \bar{\rho}-\bar{\eta} \\) complex plane
 
 | Full fit result for $$\bar{\rho} - \bar{\eta}$$ | Angles-only result for $$\bar{\rho} - \bar{\eta}$$ | Sides-only result for $$\bar{\rho} - \bar{\eta}$$ | Tree-only result for $$\bar{\rho} - \bar{\eta}$$ |
 | -- | -- | -- | -- |
