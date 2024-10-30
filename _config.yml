@@ -1,5 +1,6 @@
 theme: jekyll-theme-slate
-
+title: UTfit collaboration
+description: The website hosting the results from the UTfit collaboration
 
 # Where things are
 source              : .
