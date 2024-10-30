@@ -7,7 +7,6 @@
     - [Another sub-section](#another-sub-section)
 
 
-
 # Fit results
 
 The following set of results are available:
