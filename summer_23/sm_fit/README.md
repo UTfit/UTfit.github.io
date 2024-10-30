@@ -47,7 +47,7 @@ Predictions are obtained by removing the given constraint from the global fit. T
 
 ## Fit Results on the \\( \bar{\rho}-\bar{\eta} \\) complex plane
 
-| Full fit result for \\( \bar{\rho} - \bar{\eta} \\) | Angles-only result for \\( bar{\rho} - \bar{\eta} \\)| Sides-only result for \\( \bar{\rho} - \bar{\eta} \\) | Tree-only result for \\( \bar{\rho} - \bar{\eta} \\) |
+| Full fit result for \\( \bar{\rho} - \bar{\eta} \\) | Angles-only result for \\( \bar{\rho} - \bar{\eta} \\)| Sides-only result for \\( \bar{\rho} - \bar{\eta} \\) | Tree-only result for \\( \bar{\rho} - \bar{\eta} \\) |
 | -- | -- | -- | -- |
 | ![rhoeta-fullfit-sm-small](./images/rhoeta-fullfit-sm-small.jpg) | ![rhoeta-angles-sm-small](./images/rhoeta-angles-sm-small.jpg) | ![rhoeta-sides-sm-small](./images/rhoeta-sides-sm-small.jpg) | ![rhoeta-tree-sm-small](./images/rhoeta-tree-sm-small.jpg) |
 | [EPS](images/rhoeta-fullfit-sm.eps) - [PDF](images/rhoeta-fullfit-sm.pdf) - [PNG](images/rhoeta-fullfit-sm.png) - [JPG](images/rhoeta-fullfit-sm.jpg) - [GIF](images/rhoeta-fullfit-sm.gif) | [EPS](images/rhoeta-angles-sm.eps) - [PDF](images/rhoeta-angles-sm.pdf) - [PNG](images/rhoeta-angles-sm.png) - [JPG](images/rhoeta-angles-sm.jpg) - [GIF](images/rhoeta-angles-sm.gif) |  [EPS](images/rhoeta-sides-sm.eps) - [PDF](images/rhoeta-sides-sm.pdf) - [PNG](images/rhoeta-sides-sm.png) - [JPG](images/rhoeta-sides-sm.jpg) - [GIF](images/rhoeta-sides-sm.gif)  |  [EPS](images/rhoeta-tree-sm.eps) - [PDF](images/rhoeta-tree-sm.pdf) - [PNG](images/rhoeta-tree-sm.png) - [JPG](images/rhoeta-tree-sm.jpg) - [GIF](images/rhoeta-tree-sm.gif) |
