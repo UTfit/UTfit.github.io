@@ -35,7 +35,7 @@ whitelist           : []
 plugins             : []
 
 # Conversion
-markdown            : kramdown
+markdown            : GFM
 highlighter         : rouge
 lsi                 : false
 excerpt_separator   : "\n\n"
@@ -72,4 +72,4 @@ kramdown:
   hard_wrap         : false
   footnote_nr       : 1
   show_warnings     : false
-  math_engine       : mathjax’
+  math_engine       : mathjax
